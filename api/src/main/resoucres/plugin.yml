@@ -1,0 +1,5 @@
+name: AnvilGUI
+version: ${project.version}
+main: net.wesjd.anvilgui.Main
+authors: [WesJD]
+description: AnvilGUI API
